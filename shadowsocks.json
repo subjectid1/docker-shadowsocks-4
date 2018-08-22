@@ -3,7 +3,7 @@
     "server_port":8388,
     "local_address": "127.0.0.1",
     "local_port":1080,
-    "password":"dandan.io1992",
+    "password":"dc7e4e07ac89aa",
     "timeout":300,
     "method":"rc4-md5"
 }
