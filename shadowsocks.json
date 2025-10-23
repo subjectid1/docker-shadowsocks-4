@@ -5,5 +5,5 @@
     "local_port":1080,
     "password":"notfre",
     "timeout":300,
-    "method":"chacha20-ietf-poly1305"
+    "method":"chacha20-poly1305"
 }
